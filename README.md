@@ -12,8 +12,3 @@ Passionate Frontend Developer crafting immersive digital experiences through inn
 
 ## 🛠 Skills
 Javascript, React, Azure Devops, Git, Github Actions, HTML, CSS, SCSS, Figma, Adobe XD.
-
-
-
-
--->
