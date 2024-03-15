@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**tapesh02/tapesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tapesh Patel! 👋
 
-Here are some ideas to get you started:
+Passionate Frontend Developer crafting immersive digital experiences through innovative design and seamless functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-d8a16.web.app/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tapesh-patel-276a65a4/)
+
+
+
+## 🛠 Skills
+Javascript, React, Azure Devops, Git, Github Actions, HTML, CSS, SCSS, Figma, Adobe XD.
+
+
+
+
 -->
