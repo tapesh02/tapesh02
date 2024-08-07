@@ -1,4 +1,4 @@
-<img src="/github-bg.png"  width="100%" height="100">
+<img src="/github-bg.png"  width="100%">
 
 # Hi, I'm Tapesh Patel! 👋
 
