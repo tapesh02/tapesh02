@@ -1,3 +1,4 @@
+<img src="/github-bg.png"  width="100%" height="100">
 
 # Hi, I'm Tapesh Patel! 👋
 
@@ -18,5 +19,5 @@ Passionate Frontend Developer crafting immersive digital experiences through inn
 | CSS | <img src="https://brandslogos.com/wp-content/uploads/thumbs/css3-logo.png" width="30" height="30"> | SCSS | <img src="https://w7.pngwing.com/pngs/425/902/png-transparent-sass-style-sheet-language-cascading-style-sheets-logo-sass-purple-violet-text-thumbnail.png" width="30" height="30"> | Figma | <img src="https://brandslogos.com/wp-content/uploads/thumbs/figma-logo.png" width="30" height="30"> | REST API | <img src="https://img.icons8.com/carbon-copy/100/000000/api.png" width="30" height="30"> |
 | Adobe XD | <img src="https://brandslogos.com/wp-content/uploads/thumbs/adobe-xd-logo.png" width="30" height="30"> | TypeScript | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30" height="30"> | Redux | <img src="https://redux.js.org/img/redux.svg" width="30" height="30"> | Jest |<img src="https://jestjs.io/img/jest.png" width="30" height="30">
 
-
+<img src="/github-bg2.png"  width="100%">
 
