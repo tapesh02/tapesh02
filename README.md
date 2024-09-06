@@ -10,5 +10,5 @@ Passionate Frontend Developer crafting immersive digital experiences through inn
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tapesh-patel-276a65a4/)
 
 
-<img src="/github-skill.png"  width="100%">
+<img src="/githubskill.png"  width="100%">
 
